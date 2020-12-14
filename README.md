@@ -12,10 +12,11 @@ It is a software that allows you to write and manage text on website.
 - theme variety
 - ability to choose
 
-### NotePad++ :buntu. 
+### NotePad++ 
 
 
-### TextWrangler/BB Edit :
+
+### TextWrangler/BB Edit 
 
 
 ### Visual Studio Code :
@@ -29,7 +30,7 @@ already built-in with no additional work from you at all
 
 -completion
 
-### Atom:
+### Atom
  
  The software developers should be thoughtful about their selection to select a healthy text editor which gives them results they want.
  
