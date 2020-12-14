@@ -1,4 +1,9 @@
 # reading-notes-Read02
+
+In the Lab I learned how to install applications and run command on Ubuntu, always I learned how to get the verification codes, and get familier with Ubuntu.
+
+
+
 # Text Editor
 It is a software that allows you to write and manage text on website.
 ## Features:
@@ -7,12 +12,11 @@ It is a software that allows you to write and manage text on website.
 - theme variety
 - ability to choose
 
-### NotePad++ :
-. It has syntax highlighting and code
-completion, as well as word completion and function completion.
+### NotePad++ :buntu. 
+
 
 ### TextWrangler/BB Edit :
-TextWrangler is for Mac computers only
+
 
 ### Visual Studio Code :
 VS Code has the Emmet shorthand for HTML and CSS
@@ -24,8 +28,8 @@ already built-in with no additional work from you at all
 -extensions and code
 
 -completion
+
 ### Atom:
- brought  by the folks at GitHub
  
  The software developers should be thoughtful about their selection to select a healthy text editor which gives them results they want.
  
