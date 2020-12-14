@@ -24,5 +24,10 @@ already built-in with no additional work from you at all
 -extensions and code
 
 -completion
+### Atom:
+ brought  by the folks at GitHub
+ 
+ The software developers should be thoughtful about their selection to select a healthy text editor which gives them results they want.
+
 
 
