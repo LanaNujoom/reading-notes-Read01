@@ -18,8 +18,11 @@ TextWrangler is for Mac computers only
 VS Code has the Emmet shorthand for HTML and CSS
 already built-in with no additional work from you at all
 -syntax highlighting
+
 -themes 
+
 -extensions and code
+
 -completion
 
 
